@@ -1,0 +1,1364 @@
+<products><product>
+    <cat_name>Захранвания</cat_name>
+    <cat_name_top_level>Захранвания</cat_name_top_level>
+    <man_name>Makki</man_name>
+    <prod_name>Makki захранване PSU 550W PFC Version 2 - MAKKI-ATX-550V2</prod_name>
+    <prod_name_english>Makki PSU 550W PFC Version 2 - MAKKI-ATX-550V2</prod_name_english>
+    <prod_model>MAKKI-ATX-550V2</prod_model>
+    <prod_descr_full>
+        <![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-ATX-550V2 </td></tr><tr><td>МОЩНОСТ НА ЗАХРАНВАЩ БЛОК </td><td>550 W</td></tr><tr><td>ФОРМАТ </td><td>ATX</td></tr><tr><td>ТИП </td><td>Passive PFC</td></tr><tr><td>СЕРТИФИКАТИ </td><td>CE</td></tr><tr><td>ЕФЕКТИВНОСТ </td><td>80%</td></tr><tr><td>КОНЕКТОРИ </td><td>PCI-Express 6+2 pin x 2<br>SATA x 3<br>Molex x 3<br>20+4 Pin ATX x 1<br>4+4 Pin ATX/EPS x 1</td></tr><tr><td>ОХЛАЖДАНЕ </td><td>120 mm вентилатор</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>РАЗМЕРИ </td><td>140 x 150 x 86 mm ( L x W x H)</td></tr><tr><td>ТЕГЛО </td><td>1.4 kg</td></tr><tr><td>ДРУГИ </td><td>600mm дължина на кабелите</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+    </prod_descr_full>
+    <products_id>code_3824</products_id>
+    <manufacturers_id>83</manufacturers_id>
+    <Price_EndUser_LV_wo_VAT>39.17</Price_EndUser_LV_wo_VAT>
+    <In_Promotion>N</In_Promotion>
+    <prod_descr>
+        <![CDATA[ 60cm кабели за ATX и P4 ]]>
+    </prod_descr>
+    <prod_avail>Y</prod_avail>
+    <prod_weight>1.400</prod_weight>
+    <prod_warra>24</prod_warra>
+    <prod_full_cat_path>Захранвания</prod_full_cat_path>
+    <prod_full_cat>Захранвания</prod_full_cat>
+    <prod_descr_text>
+        <![CDATA[ <table class="prod_info"> 
+            <tbody>
+                <tr>
+                    <td>ПРОИЗВОДИТЕЛ</td>
+                    <td>Makki </td>
+                </tr>
+                <tr>
+                    <td>КОД НА ПРОИЗВОДИТЕЛЯ</td>
+                    <td>MAKKI-ATX-550V2 </td>
+                </tr>
+                <tr>
+                    <td>МОЩНОСТ НА ЗАХРАНВАЩ БЛОК </td>
+                    <td>550 W</td>
+                </tr>
+                <tr>        
+                    <td>ФОРМАТ </td>
+                    <td>ATX</td>
+                </tr>
+                <tr>    
+                    <td>ТИП </td>
+                    <td>Passive PFC</td>
+                </tr><tr><td>СЕРТИФИКАТИ </td><td>CE</td></tr><tr><td>ЕФЕКТИВНОСТ </td><td>80%</td></tr><tr><td>КОНЕКТОРИ </td><td>PCI-Express 6+2 pin x 2<br>SATA x 3<br>Molex x 3<br>20+4 Pin ATX x 1<br>4+4 Pin ATX/EPS x 1</td></tr><tr><td>ОХЛАЖДАНЕ </td><td>120 mm вентилатор</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>РАЗМЕРИ </td><td>140 x 150 x 86 mm ( L x W x H)</td></tr><tr><td>ТЕГЛО </td><td>1.4 kg</td></tr><tr><td>ДРУГИ </td><td>600mm дължина на кабелите</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+    </prod_descr_text>
+
+    <video_reviews> </video_reviews>
+    <EAN/>
+    <propertyList>
+        <propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+        <propertyValue id="251">Makki</propertyValue>
+        </propertyGroup>
+        <propertyGroup id="83" sort_order="98" name="МОЩНОСТ НА ЗАХРАНВАЩ БЛОК" filter_use="1" slider="0" slider_measure="">
+        <propertyValue id="1149">550 W</propertyValue>
+        </propertyGroup>
+        <propertyGroup id="84" sort_order="99" name="ФОРМАТ" filter_use="1" slider="0" slider_measure="">
+        <propertyValue id="303">ATX</propertyValue>
+        </propertyGroup>
+        <propertyGroup id="87" sort_order="100" name="ТИП" filter_use="1" slider="0" slider_measure="">
+        <propertyValue id="304">Passive PFC</propertyValue>
+        </propertyGroup>
+        <propertyGroup id="89" sort_order="101" name="СЕРТИФИКАТИ" filter_use="1" slider="0" slider_measure="">
+        <propertyValue id="1461">CE</propertyValue>
+        </propertyGroup>
+        <propertyGroup id="88" sort_order="102" name="ЕФЕКТИВНОСТ" filter_use="1" slider="0" slider_measure="">
+        <propertyValue id="2097">80%</propertyValue>
+        </propertyGroup>
+        <propertyGroup id="183" sort_order="105" name="КОНЕКТОРИ" filter_use="1" slider="0" slider_measure="">
+        <propertyValue id="1156">4+4 Pin ATX/EPS x 1</propertyValue>
+        <propertyValue id="1157">20+4 Pin ATX x 1</propertyValue>
+        <propertyValue id="1154">Molex x 3</propertyValue>
+        <propertyValue id="1152">PCI-Express 6+2 pin x 2</propertyValue>
+        <propertyValue id="2188">SATA x 3</propertyValue>
+        </propertyGroup>
+        <propertyGroup id="86" sort_order="106" name="ОХЛАЖДАНЕ" filter_use="1" slider="0" slider_measure="">
+        <propertyValue id="307">120 mm вентилатор</propertyValue>
+        </propertyGroup>
+        <propertyGroup id="81" sort_order="107" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+        <propertyValue id="966">Черен</propertyValue>
+        </propertyGroup>
+        <propertyGroup id="82" sort_order="108" name="РАЗМЕРИ" filter_use="1" slider="0" slider_measure="">
+        <propertyValue id="309">140 x 150 x 86 mm ( L x W x H)</propertyValue>
+        </propertyGroup>
+        <propertyGroup id="90" sort_order="109" name="ТЕГЛО" filter_use="1" slider="1" slider_measure="kg">
+        <propertyValue id="3916">1.4 kg</propertyValue>
+        </propertyGroup>
+        <propertyGroup id="281" sort_order="110" name="ДРУГИ" filter_use="0" slider="0" slider_measure="">
+        <propertyValue id="2099">600mm дължина на кабелите</propertyValue>
+        </propertyGroup>
+    </propertyList>
+</product>
+<product>
+<cat_name>Стойки за монитори / телевизори</cat_name>
+<cat_name_top_level>Аксесоари</cat_name_top_level>
+<man_name>Makki</man_name>
+<prod_name>Makki Стойка за монитор Monitor Mount - GL731 Aluminuim Black - 1 Monitor, Gas Lifter, 2 x USB3.0 - MA-GL731-U3-BK</prod_name>
+<prod_name_english>Makki Monitor Mount - GL731 Aluminuim Black - 1 Monitor, Gas Lifter, 2 x USB3.0 - MA-GL731-U3-BK</prod_name_english>
+<prod_model>MA-GL731-U3-BK</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MA-GL731-U3-BK </td></tr><tr><td>СТОЙКА ЗА </td><td>1 Монитор</td></tr><tr><td>МОНТИРАНЕ НА </td><td>Бюро</td></tr><tr><td>ВИД СТОЙКА </td><td>Регулируема<br>Газов амортисьор - регулируем<br>Алуминиева</td></tr><tr><td>ОРГАНИЗАЦИЯ НА КАБЕЛИТЕ </td><td>Скрити кабели<br>Да</td></tr><tr><td>ПОРТОВЕ </td><td>USB 3.0 x 2</td></tr><tr><td>МАКСИМАЛНО ТЕГЛО </td><td>12 kg</td></tr><tr><td>МАКСИМАЛЕН ДИАГОНАЛ </td><td>36"</td></tr><tr><td>VESA СТАНДАРТ </td><td>75 x 75<br>100 x 100</td></tr><tr><td>ВЕРТИКАЛЕН НАКЛОН </td><td>-90° / +15°</td></tr><tr><td>ВЪРТЕНЕ НА РАМОТО </td><td>360°</td></tr><tr><td>ВЪРТЕНЕ НА СТОЙКАТА </td><td>270°</td></tr><tr><td>ДЕБЕЛИНА НА ПЛОТА </td><td>20 - 100 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Система за бърз демонтаж на монитора</td></tr><tr><td>ГАРАНЦИЯ</td><td>60 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3823</products_id>
+<manufacturers_id>83</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>115.83</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>3.950</prod_weight>
+<prod_warra>60</prod_warra>
+<prod_full_cat_path>Аксесоари|Стойки за монитори / телевизори</prod_full_cat_path>
+<prod_full_cat>Стойки за монитори / телевизори</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MA-GL731-U3-BK </td></tr><tr><td>СТОЙКА ЗА </td><td>1 Монитор</td></tr><tr><td>МОНТИРАНЕ НА </td><td>Бюро</td></tr><tr><td>ВИД СТОЙКА </td><td>Регулируема<br>Газов амортисьор - регулируем<br>Алуминиева</td></tr><tr><td>ОРГАНИЗАЦИЯ НА КАБЕЛИТЕ </td><td>Скрити кабели<br>Да</td></tr><tr><td>ПОРТОВЕ </td><td>USB 3.0 x 2</td></tr><tr><td>МАКСИМАЛНО ТЕГЛО </td><td>12 kg</td></tr><tr><td>МАКСИМАЛЕН ДИАГОНАЛ </td><td>36"</td></tr><tr><td>VESA СТАНДАРТ </td><td>75 x 75<br>100 x 100</td></tr><tr><td>ВЕРТИКАЛЕН НАКЛОН </td><td>-90° / +15°</td></tr><tr><td>ВЪРТЕНЕ НА РАМОТО </td><td>360°</td></tr><tr><td>ВЪРТЕНЕ НА СТОЙКАТА </td><td>270°</td></tr><tr><td>ДЕБЕЛИНА НА ПЛОТА </td><td>20 - 100 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Система за бърз демонтаж на монитора</td></tr><tr><td>ГАРАНЦИЯ</td><td>60 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN/>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="251">Makki</propertyValue>
+</propertyGroup>
+<propertyGroup id="190" sort_order="205" name="СТОЙКА ЗА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="877">1 Монитор</propertyValue>
+</propertyGroup>
+<propertyGroup id="198" sort_order="206" name="МОНТИРАНЕ НА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="655">Бюро</propertyValue>
+</propertyGroup>
+<propertyGroup id="194" sort_order="207" name="ВИД СТОЙКА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1353">Алуминиева</propertyValue>
+<propertyValue id="1352">Газов амортисьор - регулируем</propertyValue>
+<propertyValue id="658">Регулируема</propertyValue>
+</propertyGroup>
+<propertyGroup id="315" sort_order="208" name="ОРГАНИЗАЦИЯ НА КАБЕЛИТЕ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="1257">Да</propertyValue>
+<propertyValue id="1349">Скрити кабели</propertyValue>
+</propertyGroup>
+<propertyGroup id="316" sort_order="209" name="ПОРТОВЕ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="1350">USB 3.0 x 2</propertyValue>
+</propertyGroup>
+<propertyGroup id="191" sort_order="210" name="МАКСИМАЛНО ТЕГЛО" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3912">12 kg</propertyValue>
+</propertyGroup>
+<propertyGroup id="192" sort_order="211" name="МАКСИМАЛЕН ДИАГОНАЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3913">36&quot;</propertyValue>
+</propertyGroup>
+<propertyGroup id="193" sort_order="212" name="VESA СТАНДАРТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="994">75 x 75</propertyValue>
+<propertyValue id="993">100 x 100</propertyValue>
+</propertyGroup>
+<propertyGroup id="196" sort_order="213" name="ВЕРТИКАЛЕН НАКЛОН" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1354">-90° / +15°</propertyValue>
+</propertyGroup>
+<propertyGroup id="195" sort_order="214" name="ВЪРТЕНЕ НА РАМОТО" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3914">360°</propertyValue>
+</propertyGroup>
+<propertyGroup id="200" sort_order="215" name="ВЪРТЕНЕ НА СТОЙКАТА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3915">270°</propertyValue>
+</propertyGroup>
+<propertyGroup id="317" sort_order="217" name="ДЕБЕЛИНА НА ПЛОТА" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="1345">20 - 100 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="197" sort_order="218" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="659">Черен</propertyValue>
+</propertyGroup>
+<propertyGroup id="199" sort_order="219" name="ДОПЪЛНИТЕЛНИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="1357">Система за бърз демонтаж на монитора</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Modding Cases|Middle Tower</cat_name>
+<cat_name_top_level>Modding</cat_name_top_level>
+<man_name>Makki</man_name>
+<prod_name>Makki Кутия Case ATX Gaming - F10 RGB 2F</prod_name>
+<prod_name_english>Makki Case ATX Gaming - F10 RGB 2F</prod_name_english>
+<prod_model>MAKKI-F10-RGB-2F</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-F10-RGB-2F </td></tr><tr><td>ФОРМАТ </td><td>ATX<br>mATX<br>Mini-ITX</td></tr><tr><td>ФОРМ ФАКТОР </td><td>Middle Tower</td></tr><tr><td>РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК </td><td>Долу</td></tr><tr><td>RGB </td><td>Да</td></tr><tr><td>ПРОЗРАЧЕН СТРАНИЧЕН КАПАК </td><td>Да<br>Acrylic glass</td></tr><tr><td>ИНТЕРФЕЙС </td><td>RGB button<br>1 x USB 3.0<br>2 x USB 2.0<br>HD Audio Headphones<br>HD Audio Mic</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ </td><td>2</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ </td><td>2 x 180 mm RGB fan</td></tr><tr><td>ОПЦИОНАЛНИ ВЕНТИЛАТОРИ </td><td>Top - 2 x 120<br>Rear - 1 x 120<br>Bottom - 2 x 120</td></tr><tr><td>БРОЙ DVD 5.25" ГНЕЗДА </td><td>0</td></tr><tr><td>БРОЙ 3.5" ГНЕЗДА </td><td>2</td></tr><tr><td>БРОЙ 2.5" SSD ГНЕЗДА </td><td>2</td></tr><tr><td>РАЗШИРИТЕЛНИ СЛОТОВЕ </td><td>7</td></tr><tr><td>МАКС. РАЗМЕР ОХЛАДИТЕЛ </td><td>165 mm</td></tr><tr><td>МАКС. РАЗМЕР ВИДЕОКАРТА </td><td>310 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Lighting Modes - 15 with Memory<br>Magnetic dust filter<br>PSU Dust filter<br>Cable Management 38 mm<br>Font Panel - Tempered Glass</td></tr><tr><td>РАЗМЕРИ </td><td>320 x 200 x 440 mm</td></tr><tr><td>ТЕГЛО </td><td>4.2 kg</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3822</products_id>
+<manufacturers_id>83</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>65.01</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>4.900</prod_weight>
+<prod_warra>24</prod_warra>
+<prod_full_cat_path>Modding|Modding Cases</prod_full_cat_path>
+<prod_full_cat>Modding Cases|Middle Tower</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-F10-RGB-2F </td></tr><tr><td>ФОРМАТ </td><td>ATX<br>mATX<br>Mini-ITX</td></tr><tr><td>ФОРМ ФАКТОР </td><td>Middle Tower</td></tr><tr><td>РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК </td><td>Долу</td></tr><tr><td>RGB </td><td>Да</td></tr><tr><td>ПРОЗРАЧЕН СТРАНИЧЕН КАПАК </td><td>Да<br>Acrylic glass</td></tr><tr><td>ИНТЕРФЕЙС </td><td>RGB button<br>1 x USB 3.0<br>2 x USB 2.0<br>HD Audio Headphones<br>HD Audio Mic</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ </td><td>2</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ </td><td>2 x 180 mm RGB fan</td></tr><tr><td>ОПЦИОНАЛНИ ВЕНТИЛАТОРИ </td><td>Top - 2 x 120<br>Rear - 1 x 120<br>Bottom - 2 x 120</td></tr><tr><td>БРОЙ DVD 5.25" ГНЕЗДА </td><td>0</td></tr><tr><td>БРОЙ 3.5" ГНЕЗДА </td><td>2</td></tr><tr><td>БРОЙ 2.5" SSD ГНЕЗДА </td><td>2</td></tr><tr><td>РАЗШИРИТЕЛНИ СЛОТОВЕ </td><td>7</td></tr><tr><td>МАКС. РАЗМЕР ОХЛАДИТЕЛ </td><td>165 mm</td></tr><tr><td>МАКС. РАЗМЕР ВИДЕОКАРТА </td><td>310 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Lighting Modes - 15 with Memory<br>Magnetic dust filter<br>PSU Dust filter<br>Cable Management 38 mm<br>Font Panel - Tempered Glass</td></tr><tr><td>РАЗМЕРИ </td><td>320 x 200 x 440 mm</td></tr><tr><td>ТЕГЛО </td><td>4.2 kg</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN/>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="251">Makki</propertyValue>
+</propertyGroup>
+<propertyGroup id="50" sort_order="56" name="ФОРМАТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="367">ATX</propertyValue>
+<propertyValue id="368">Mini-ITX</propertyValue>
+<propertyValue id="369">mATX</propertyValue>
+</propertyGroup>
+<propertyGroup id="49" sort_order="57" name="ФОРМ ФАКТОР" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="366">Middle Tower</propertyValue>
+</propertyGroup>
+<propertyGroup id="59" sort_order="59" name="РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="370">Долу</propertyValue>
+</propertyGroup>
+<propertyGroup id="249" sort_order="60" name="RGB" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1119">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="65" sort_order="61" name="ПРОЗРАЧЕН СТРАНИЧЕН КАПАК" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="766">Acrylic glass</propertyValue>
+<propertyValue id="371">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="53" sort_order="62" name="ИНТЕРФЕЙС" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="362">1 x USB 3.0</propertyValue>
+<propertyValue id="363">2 x USB 2.0</propertyValue>
+<propertyValue id="364">HD Audio Headphones</propertyValue>
+<propertyValue id="365">HD Audio Mic</propertyValue>
+<propertyValue id="751">RGB button</propertyValue>
+</propertyGroup>
+<propertyGroup id="310" sort_order="63" name="ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="752">2</propertyValue>
+</propertyGroup>
+<propertyGroup id="242" sort_order="64" name="ВКЛЮЧЕНИ ВЕНТИЛАТОРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3911">2 x 180 mm RGB fan</propertyValue>
+</propertyGroup>
+<propertyGroup id="52" sort_order="65" name="ОПЦИОНАЛНИ ВЕНТИЛАТОРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3904">Bottom - 2 x 120</propertyValue>
+<propertyValue id="3903">Rear - 1 x 120</propertyValue>
+<propertyValue id="3902">Top - 2 x 120</propertyValue>
+</propertyGroup>
+<propertyGroup id="58" sort_order="66" name="БРОЙ DVD 5.25&quot; ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="757">0</propertyValue>
+</propertyGroup>
+<propertyGroup id="54" sort_order="67" name="БРОЙ 3.5&quot; ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1037">2</propertyValue>
+</propertyGroup>
+<propertyGroup id="55" sort_order="68" name="БРОЙ 2.5&quot; SSD ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="355">2</propertyValue>
+</propertyGroup>
+<propertyGroup id="56" sort_order="69" name="РАЗШИРИТЕЛНИ СЛОТОВЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="356">7</propertyValue>
+</propertyGroup>
+<propertyGroup id="63" sort_order="70" name="МАКС. РАЗМЕР ОХЛАДИТЕЛ" filter_use="1" slider="1" slider_measure="mm">
+<propertyValue id="1089">165 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="64" sort_order="71" name="МАКС. РАЗМЕР ВИДЕОКАРТА" filter_use="1" slider="1" slider_measure="mm">
+<propertyValue id="960">310 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="57" sort_order="72" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="359">Черен</propertyValue>
+</propertyGroup>
+<propertyGroup id="62" sort_order="73" name="ДОПЪЛНИТЕЛНИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3907">Cable Management 38 mm</propertyValue>
+<propertyValue id="3908">Font Panel - Tempered Glass</propertyValue>
+<propertyValue id="3905">Lighting Modes - 15 with Memory</propertyValue>
+<propertyValue id="1116">Magnetic Dust Filter</propertyValue>
+<propertyValue id="3906">PSU Dust filter</propertyValue>
+</propertyGroup>
+<propertyGroup id="22" sort_order="74" name="РАЗМЕРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3909">320 x 200 x 440 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="61" sort_order="75" name="ТЕГЛО" filter_use="1" slider="1" slider_measure="kg">
+<propertyValue id="3910">4.2 kg</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Modding Cases|Middle Tower</cat_name>
+<cat_name_top_level>Modding</cat_name_top_level>
+<man_name>Makki</man_name>
+<prod_name>Makki Кутия Case ATX Gaming - F09 RGB 3F Mesh</prod_name>
+<prod_name_english>Makki Case ATX Gaming - F09 RGB 3F Mesh</prod_name_english>
+<prod_model>MAKKI-F09-RGB-3F</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-F09-RGB-3F </td></tr><tr><td>ФОРМАТ </td><td>ATX<br>mATX<br>Mini-ITX</td></tr><tr><td>ФОРМ ФАКТОР </td><td>Middle Tower</td></tr><tr><td>РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК </td><td>Долу</td></tr><tr><td>RGB </td><td>Да</td></tr><tr><td>ПРОЗРАЧЕН СТРАНИЧЕН КАПАК </td><td>Да<br>Acrylic glass</td></tr><tr><td>ИНТЕРФЕЙС </td><td>RGB button<br>1 x USB 3.0<br>2 x USB 2.0<br>HD Audio Headphones<br>HD Audio Mic</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ </td><td>3</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ </td><td>3 x 120 mm RGB fan</td></tr><tr><td>ОПЦИОНАЛНИ ВЕНТИЛАТОРИ </td><td>Top - 2 x 120<br>Rear - 1 x 120<br>Bottom - 2 x 120</td></tr><tr><td>БРОЙ DVD 5.25" ГНЕЗДА </td><td>0</td></tr><tr><td>БРОЙ 3.5" ГНЕЗДА </td><td>2</td></tr><tr><td>БРОЙ 2.5" SSD ГНЕЗДА </td><td>2</td></tr><tr><td>РАЗШИРИТЕЛНИ СЛОТОВЕ </td><td>7</td></tr><tr><td>МАКС. РАЗМЕР ОХЛАДИТЕЛ </td><td>165 mm</td></tr><tr><td>МАКС. РАЗМЕР ВИДЕОКАРТА </td><td>310 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Lighting Modes - 15 with Memory<br>Magnetic dust filter<br>PSU Dust filter<br>Cable Management 38 mm<br>Font Panel - Tempered Glass</td></tr><tr><td>РАЗМЕРИ </td><td>320 x 200 x 440 mm</td></tr><tr><td>ТЕГЛО </td><td>4.2 kg</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3821</products_id>
+<manufacturers_id>83</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>65.01</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>4.900</prod_weight>
+<prod_warra>24</prod_warra>
+<prod_full_cat_path>Modding|Modding Cases</prod_full_cat_path>
+<prod_full_cat>Modding Cases|Middle Tower</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-F09-RGB-3F </td></tr><tr><td>ФОРМАТ </td><td>ATX<br>mATX<br>Mini-ITX</td></tr><tr><td>ФОРМ ФАКТОР </td><td>Middle Tower</td></tr><tr><td>РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК </td><td>Долу</td></tr><tr><td>RGB </td><td>Да</td></tr><tr><td>ПРОЗРАЧЕН СТРАНИЧЕН КАПАК </td><td>Да<br>Acrylic glass</td></tr><tr><td>ИНТЕРФЕЙС </td><td>RGB button<br>1 x USB 3.0<br>2 x USB 2.0<br>HD Audio Headphones<br>HD Audio Mic</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ </td><td>3</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ </td><td>3 x 120 mm RGB fan</td></tr><tr><td>ОПЦИОНАЛНИ ВЕНТИЛАТОРИ </td><td>Top - 2 x 120<br>Rear - 1 x 120<br>Bottom - 2 x 120</td></tr><tr><td>БРОЙ DVD 5.25" ГНЕЗДА </td><td>0</td></tr><tr><td>БРОЙ 3.5" ГНЕЗДА </td><td>2</td></tr><tr><td>БРОЙ 2.5" SSD ГНЕЗДА </td><td>2</td></tr><tr><td>РАЗШИРИТЕЛНИ СЛОТОВЕ </td><td>7</td></tr><tr><td>МАКС. РАЗМЕР ОХЛАДИТЕЛ </td><td>165 mm</td></tr><tr><td>МАКС. РАЗМЕР ВИДЕОКАРТА </td><td>310 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Lighting Modes - 15 with Memory<br>Magnetic dust filter<br>PSU Dust filter<br>Cable Management 38 mm<br>Font Panel - Tempered Glass</td></tr><tr><td>РАЗМЕРИ </td><td>320 x 200 x 440 mm</td></tr><tr><td>ТЕГЛО </td><td>4.2 kg</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN/>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="251">Makki</propertyValue>
+</propertyGroup>
+<propertyGroup id="50" sort_order="56" name="ФОРМАТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="367">ATX</propertyValue>
+<propertyValue id="368">Mini-ITX</propertyValue>
+<propertyValue id="369">mATX</propertyValue>
+</propertyGroup>
+<propertyGroup id="49" sort_order="57" name="ФОРМ ФАКТОР" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="366">Middle Tower</propertyValue>
+</propertyGroup>
+<propertyGroup id="59" sort_order="59" name="РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="370">Долу</propertyValue>
+</propertyGroup>
+<propertyGroup id="249" sort_order="60" name="RGB" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1119">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="65" sort_order="61" name="ПРОЗРАЧЕН СТРАНИЧЕН КАПАК" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="766">Acrylic glass</propertyValue>
+<propertyValue id="371">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="53" sort_order="62" name="ИНТЕРФЕЙС" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="362">1 x USB 3.0</propertyValue>
+<propertyValue id="363">2 x USB 2.0</propertyValue>
+<propertyValue id="364">HD Audio Headphones</propertyValue>
+<propertyValue id="365">HD Audio Mic</propertyValue>
+<propertyValue id="751">RGB button</propertyValue>
+</propertyGroup>
+<propertyGroup id="310" sort_order="63" name="ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1041">3</propertyValue>
+</propertyGroup>
+<propertyGroup id="242" sort_order="64" name="ВКЛЮЧЕНИ ВЕНТИЛАТОРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3901">3 x 120 mm RGB fan</propertyValue>
+</propertyGroup>
+<propertyGroup id="52" sort_order="65" name="ОПЦИОНАЛНИ ВЕНТИЛАТОРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3904">Bottom - 2 x 120</propertyValue>
+<propertyValue id="3903">Rear - 1 x 120</propertyValue>
+<propertyValue id="3902">Top - 2 x 120</propertyValue>
+</propertyGroup>
+<propertyGroup id="58" sort_order="66" name="БРОЙ DVD 5.25&quot; ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="757">0</propertyValue>
+</propertyGroup>
+<propertyGroup id="54" sort_order="67" name="БРОЙ 3.5&quot; ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1037">2</propertyValue>
+</propertyGroup>
+<propertyGroup id="55" sort_order="68" name="БРОЙ 2.5&quot; SSD ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="355">2</propertyValue>
+</propertyGroup>
+<propertyGroup id="56" sort_order="69" name="РАЗШИРИТЕЛНИ СЛОТОВЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="356">7</propertyValue>
+</propertyGroup>
+<propertyGroup id="63" sort_order="70" name="МАКС. РАЗМЕР ОХЛАДИТЕЛ" filter_use="1" slider="1" slider_measure="mm">
+<propertyValue id="1089">165 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="64" sort_order="71" name="МАКС. РАЗМЕР ВИДЕОКАРТА" filter_use="1" slider="1" slider_measure="mm">
+<propertyValue id="960">310 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="57" sort_order="72" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="359">Черен</propertyValue>
+</propertyGroup>
+<propertyGroup id="62" sort_order="73" name="ДОПЪЛНИТЕЛНИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3907">Cable Management 38 mm</propertyValue>
+<propertyValue id="3908">Font Panel - Tempered Glass</propertyValue>
+<propertyValue id="3905">Lighting Modes - 15 with Memory</propertyValue>
+<propertyValue id="1116">Magnetic Dust Filter</propertyValue>
+<propertyValue id="3906">PSU Dust filter</propertyValue>
+</propertyGroup>
+<propertyGroup id="22" sort_order="74" name="РАЗМЕРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3909">320 x 200 x 440 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="61" sort_order="75" name="ТЕГЛО" filter_use="1" slider="1" slider_measure="kg">
+<propertyValue id="3910">4.2 kg</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Modding Cases|Middle Tower</cat_name>
+<cat_name_top_level>Modding</cat_name_top_level>
+<man_name>Makki</man_name>
+<prod_name>Makki Кутия Case ATX Gaming - F07 RGB 3F</prod_name>
+<prod_name_english>Makki Case ATX Gaming - F07 RGB 3F</prod_name_english>
+<prod_model>MAKKI-F07-RGB-3F</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-F07-RGB-3F </td></tr><tr><td>ФОРМАТ </td><td>ATX<br>mATX<br>Mini-ITX</td></tr><tr><td>ФОРМ ФАКТОР </td><td>Middle Tower</td></tr><tr><td>РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК </td><td>Долу</td></tr><tr><td>RGB </td><td>Да</td></tr><tr><td>ПРОЗРАЧЕН СТРАНИЧЕН КАПАК </td><td>Да<br>Acrylic glass</td></tr><tr><td>ИНТЕРФЕЙС </td><td>RGB button<br>1 x USB 3.0<br>2 x USB 2.0<br>HD Audio Headphones<br>HD Audio Mic</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ </td><td>3</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ </td><td>3 x 120 mm RGB fan</td></tr><tr><td>ОПЦИОНАЛНИ ВЕНТИЛАТОРИ </td><td>Top - 2 x 120<br>Rear - 1 x 120<br>Bottom - 2 x 120</td></tr><tr><td>БРОЙ DVD 5.25" ГНЕЗДА </td><td>0</td></tr><tr><td>БРОЙ 3.5" ГНЕЗДА </td><td>2</td></tr><tr><td>БРОЙ 2.5" SSD ГНЕЗДА </td><td>2</td></tr><tr><td>РАЗШИРИТЕЛНИ СЛОТОВЕ </td><td>7</td></tr><tr><td>МАКС. РАЗМЕР ОХЛАДИТЕЛ </td><td>165 mm</td></tr><tr><td>МАКС. РАЗМЕР ВИДЕОКАРТА </td><td>310 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Lighting Modes - 15 with Memory<br>Magnetic dust filter<br>PSU Dust filter<br>Cable Management 38 mm<br>Font Panel - Tempered Glass</td></tr><tr><td>РАЗМЕРИ </td><td>320 x 200 x 440 mm</td></tr><tr><td>ТЕГЛО </td><td>4.2 kg</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3820</products_id>
+<manufacturers_id>83</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>71.68</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>4.900</prod_weight>
+<prod_warra>24</prod_warra>
+<prod_full_cat_path>Modding|Modding Cases</prod_full_cat_path>
+<prod_full_cat>Modding Cases|Middle Tower</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-F07-RGB-3F </td></tr><tr><td>ФОРМАТ </td><td>ATX<br>mATX<br>Mini-ITX</td></tr><tr><td>ФОРМ ФАКТОР </td><td>Middle Tower</td></tr><tr><td>РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК </td><td>Долу</td></tr><tr><td>RGB </td><td>Да</td></tr><tr><td>ПРОЗРАЧЕН СТРАНИЧЕН КАПАК </td><td>Да<br>Acrylic glass</td></tr><tr><td>ИНТЕРФЕЙС </td><td>RGB button<br>1 x USB 3.0<br>2 x USB 2.0<br>HD Audio Headphones<br>HD Audio Mic</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ </td><td>3</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ </td><td>3 x 120 mm RGB fan</td></tr><tr><td>ОПЦИОНАЛНИ ВЕНТИЛАТОРИ </td><td>Top - 2 x 120<br>Rear - 1 x 120<br>Bottom - 2 x 120</td></tr><tr><td>БРОЙ DVD 5.25" ГНЕЗДА </td><td>0</td></tr><tr><td>БРОЙ 3.5" ГНЕЗДА </td><td>2</td></tr><tr><td>БРОЙ 2.5" SSD ГНЕЗДА </td><td>2</td></tr><tr><td>РАЗШИРИТЕЛНИ СЛОТОВЕ </td><td>7</td></tr><tr><td>МАКС. РАЗМЕР ОХЛАДИТЕЛ </td><td>165 mm</td></tr><tr><td>МАКС. РАЗМЕР ВИДЕОКАРТА </td><td>310 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Lighting Modes - 15 with Memory<br>Magnetic dust filter<br>PSU Dust filter<br>Cable Management 38 mm<br>Font Panel - Tempered Glass</td></tr><tr><td>РАЗМЕРИ </td><td>320 x 200 x 440 mm</td></tr><tr><td>ТЕГЛО </td><td>4.2 kg</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN/>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="251">Makki</propertyValue>
+</propertyGroup>
+<propertyGroup id="50" sort_order="56" name="ФОРМАТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="367">ATX</propertyValue>
+<propertyValue id="368">Mini-ITX</propertyValue>
+<propertyValue id="369">mATX</propertyValue>
+</propertyGroup>
+<propertyGroup id="49" sort_order="57" name="ФОРМ ФАКТОР" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="366">Middle Tower</propertyValue>
+</propertyGroup>
+<propertyGroup id="59" sort_order="59" name="РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="370">Долу</propertyValue>
+</propertyGroup>
+<propertyGroup id="249" sort_order="60" name="RGB" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1119">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="65" sort_order="61" name="ПРОЗРАЧЕН СТРАНИЧЕН КАПАК" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="766">Acrylic glass</propertyValue>
+<propertyValue id="371">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="53" sort_order="62" name="ИНТЕРФЕЙС" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="362">1 x USB 3.0</propertyValue>
+<propertyValue id="363">2 x USB 2.0</propertyValue>
+<propertyValue id="364">HD Audio Headphones</propertyValue>
+<propertyValue id="365">HD Audio Mic</propertyValue>
+<propertyValue id="751">RGB button</propertyValue>
+</propertyGroup>
+<propertyGroup id="310" sort_order="63" name="ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1041">3</propertyValue>
+</propertyGroup>
+<propertyGroup id="242" sort_order="64" name="ВКЛЮЧЕНИ ВЕНТИЛАТОРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3901">3 x 120 mm RGB fan</propertyValue>
+</propertyGroup>
+<propertyGroup id="52" sort_order="65" name="ОПЦИОНАЛНИ ВЕНТИЛАТОРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3904">Bottom - 2 x 120</propertyValue>
+<propertyValue id="3903">Rear - 1 x 120</propertyValue>
+<propertyValue id="3902">Top - 2 x 120</propertyValue>
+</propertyGroup>
+<propertyGroup id="58" sort_order="66" name="БРОЙ DVD 5.25&quot; ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="757">0</propertyValue>
+</propertyGroup>
+<propertyGroup id="54" sort_order="67" name="БРОЙ 3.5&quot; ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1037">2</propertyValue>
+</propertyGroup>
+<propertyGroup id="55" sort_order="68" name="БРОЙ 2.5&quot; SSD ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="355">2</propertyValue>
+</propertyGroup>
+<propertyGroup id="56" sort_order="69" name="РАЗШИРИТЕЛНИ СЛОТОВЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="356">7</propertyValue>
+</propertyGroup>
+<propertyGroup id="63" sort_order="70" name="МАКС. РАЗМЕР ОХЛАДИТЕЛ" filter_use="1" slider="1" slider_measure="mm">
+<propertyValue id="1089">165 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="64" sort_order="71" name="МАКС. РАЗМЕР ВИДЕОКАРТА" filter_use="1" slider="1" slider_measure="mm">
+<propertyValue id="960">310 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="57" sort_order="72" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="359">Черен</propertyValue>
+</propertyGroup>
+<propertyGroup id="62" sort_order="73" name="ДОПЪЛНИТЕЛНИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3907">Cable Management 38 mm</propertyValue>
+<propertyValue id="3908">Font Panel - Tempered Glass</propertyValue>
+<propertyValue id="3905">Lighting Modes - 15 with Memory</propertyValue>
+<propertyValue id="1116">Magnetic Dust Filter</propertyValue>
+<propertyValue id="3906">PSU Dust filter</propertyValue>
+</propertyGroup>
+<propertyGroup id="22" sort_order="74" name="РАЗМЕРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3909">320 x 200 x 440 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="61" sort_order="75" name="ТЕГЛО" filter_use="1" slider="1" slider_measure="kg">
+<propertyValue id="3910">4.2 kg</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Modding Cases|Middle Tower</cat_name>
+<cat_name_top_level>Modding</cat_name_top_level>
+<man_name>Makki</man_name>
+<prod_name>Makki Кутия Case ATX Gaming - F05 RGB 3F</prod_name>
+<prod_name_english>Makki Case ATX Gaming - F05 RGB 3F</prod_name_english>
+<prod_model>MAKKI-F05-RGB-3F</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-F05-RGB-3F </td></tr><tr><td>ФОРМАТ </td><td>ATX<br>mATX<br>Mini-ITX</td></tr><tr><td>ФОРМ ФАКТОР </td><td>Middle Tower</td></tr><tr><td>РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК </td><td>Долу</td></tr><tr><td>RGB </td><td>Да</td></tr><tr><td>ПРОЗРАЧЕН СТРАНИЧЕН КАПАК </td><td>Да<br>Acrylic glass</td></tr><tr><td>ИНТЕРФЕЙС </td><td>RGB button<br>1 x USB 3.0<br>2 x USB 2.0<br>HD Audio Headphones<br>HD Audio Mic</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ </td><td>3</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ </td><td>3 x 120 mm RGB fan</td></tr><tr><td>ОПЦИОНАЛНИ ВЕНТИЛАТОРИ </td><td>Top - 2 x 120<br>Rear - 1 x 120<br>Bottom - 2 x 120</td></tr><tr><td>БРОЙ DVD 5.25" ГНЕЗДА </td><td>0</td></tr><tr><td>БРОЙ 3.5" ГНЕЗДА </td><td>2</td></tr><tr><td>БРОЙ 2.5" SSD ГНЕЗДА </td><td>2</td></tr><tr><td>РАЗШИРИТЕЛНИ СЛОТОВЕ </td><td>7</td></tr><tr><td>МАКС. РАЗМЕР ОХЛАДИТЕЛ </td><td>165 mm</td></tr><tr><td>МАКС. РАЗМЕР ВИДЕОКАРТА </td><td>310 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Lighting Modes - 15 with Memory<br>Magnetic dust filter<br>PSU Dust filter<br>Cable Management 38 mm<br>Font Panel - Tempered Glass</td></tr><tr><td>РАЗМЕРИ </td><td>320 x 200 x 440 mm</td></tr><tr><td>ТЕГЛО </td><td>4.2 kg</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3819</products_id>
+<manufacturers_id>83</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>71.68</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>4.900</prod_weight>
+<prod_warra>24</prod_warra>
+<prod_full_cat_path>Modding|Modding Cases</prod_full_cat_path>
+<prod_full_cat>Modding Cases|Middle Tower</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-F05-RGB-3F </td></tr><tr><td>ФОРМАТ </td><td>ATX<br>mATX<br>Mini-ITX</td></tr><tr><td>ФОРМ ФАКТОР </td><td>Middle Tower</td></tr><tr><td>РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК </td><td>Долу</td></tr><tr><td>RGB </td><td>Да</td></tr><tr><td>ПРОЗРАЧЕН СТРАНИЧЕН КАПАК </td><td>Да<br>Acrylic glass</td></tr><tr><td>ИНТЕРФЕЙС </td><td>RGB button<br>1 x USB 3.0<br>2 x USB 2.0<br>HD Audio Headphones<br>HD Audio Mic</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ </td><td>3</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ </td><td>3 x 120 mm RGB fan</td></tr><tr><td>ОПЦИОНАЛНИ ВЕНТИЛАТОРИ </td><td>Top - 2 x 120<br>Rear - 1 x 120<br>Bottom - 2 x 120</td></tr><tr><td>БРОЙ DVD 5.25" ГНЕЗДА </td><td>0</td></tr><tr><td>БРОЙ 3.5" ГНЕЗДА </td><td>2</td></tr><tr><td>БРОЙ 2.5" SSD ГНЕЗДА </td><td>2</td></tr><tr><td>РАЗШИРИТЕЛНИ СЛОТОВЕ </td><td>7</td></tr><tr><td>МАКС. РАЗМЕР ОХЛАДИТЕЛ </td><td>165 mm</td></tr><tr><td>МАКС. РАЗМЕР ВИДЕОКАРТА </td><td>310 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Lighting Modes - 15 with Memory<br>Magnetic dust filter<br>PSU Dust filter<br>Cable Management 38 mm<br>Font Panel - Tempered Glass</td></tr><tr><td>РАЗМЕРИ </td><td>320 x 200 x 440 mm</td></tr><tr><td>ТЕГЛО </td><td>4.2 kg</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN/>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="251">Makki</propertyValue>
+</propertyGroup>
+<propertyGroup id="50" sort_order="56" name="ФОРМАТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="367">ATX</propertyValue>
+<propertyValue id="368">Mini-ITX</propertyValue>
+<propertyValue id="369">mATX</propertyValue>
+</propertyGroup>
+<propertyGroup id="49" sort_order="57" name="ФОРМ ФАКТОР" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="366">Middle Tower</propertyValue>
+</propertyGroup>
+<propertyGroup id="59" sort_order="59" name="РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="370">Долу</propertyValue>
+</propertyGroup>
+<propertyGroup id="249" sort_order="60" name="RGB" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1119">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="65" sort_order="61" name="ПРОЗРАЧЕН СТРАНИЧЕН КАПАК" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="766">Acrylic glass</propertyValue>
+<propertyValue id="371">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="53" sort_order="62" name="ИНТЕРФЕЙС" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="362">1 x USB 3.0</propertyValue>
+<propertyValue id="363">2 x USB 2.0</propertyValue>
+<propertyValue id="364">HD Audio Headphones</propertyValue>
+<propertyValue id="365">HD Audio Mic</propertyValue>
+<propertyValue id="751">RGB button</propertyValue>
+</propertyGroup>
+<propertyGroup id="310" sort_order="63" name="ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1041">3</propertyValue>
+</propertyGroup>
+<propertyGroup id="242" sort_order="64" name="ВКЛЮЧЕНИ ВЕНТИЛАТОРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3901">3 x 120 mm RGB fan</propertyValue>
+</propertyGroup>
+<propertyGroup id="52" sort_order="65" name="ОПЦИОНАЛНИ ВЕНТИЛАТОРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3904">Bottom - 2 x 120</propertyValue>
+<propertyValue id="3903">Rear - 1 x 120</propertyValue>
+<propertyValue id="3902">Top - 2 x 120</propertyValue>
+</propertyGroup>
+<propertyGroup id="58" sort_order="66" name="БРОЙ DVD 5.25&quot; ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="757">0</propertyValue>
+</propertyGroup>
+<propertyGroup id="54" sort_order="67" name="БРОЙ 3.5&quot; ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1037">2</propertyValue>
+</propertyGroup>
+<propertyGroup id="55" sort_order="68" name="БРОЙ 2.5&quot; SSD ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="355">2</propertyValue>
+</propertyGroup>
+<propertyGroup id="56" sort_order="69" name="РАЗШИРИТЕЛНИ СЛОТОВЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="356">7</propertyValue>
+</propertyGroup>
+<propertyGroup id="63" sort_order="70" name="МАКС. РАЗМЕР ОХЛАДИТЕЛ" filter_use="1" slider="1" slider_measure="mm">
+<propertyValue id="1089">165 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="64" sort_order="71" name="МАКС. РАЗМЕР ВИДЕОКАРТА" filter_use="1" slider="1" slider_measure="mm">
+<propertyValue id="960">310 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="57" sort_order="72" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="359">Черен</propertyValue>
+</propertyGroup>
+<propertyGroup id="62" sort_order="73" name="ДОПЪЛНИТЕЛНИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3907">Cable Management 38 mm</propertyValue>
+<propertyValue id="3908">Font Panel - Tempered Glass</propertyValue>
+<propertyValue id="3905">Lighting Modes - 15 with Memory</propertyValue>
+<propertyValue id="1116">Magnetic Dust Filter</propertyValue>
+<propertyValue id="3906">PSU Dust filter</propertyValue>
+</propertyGroup>
+<propertyGroup id="22" sort_order="74" name="РАЗМЕРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3909">320 x 200 x 440 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="61" sort_order="75" name="ТЕГЛО" filter_use="1" slider="1" slider_measure="kg">
+<propertyValue id="3910">4.2 kg</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Зарядни за лаптоп</cat_name>
+<cat_name_top_level>Аксесоари</cat_name_top_level>
+<man_name>Makki</man_name>
+<prod_name>Makki зарядно за лаптоп заместител Laptop Adapter Microsoft Surface - 15V 4A 65W + USB 5V/1A - MAKKI-NA-MS-53</prod_name>
+<prod_name_english>Makki Laptop Adapter Microsoft Surface - 15V 4A 65W + USB 5V/1A - MAKKI-NA-MS-53</prod_name_english>
+<prod_model>MAKKI-NA-MS-53</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-NA-MS-53 </td></tr><tr><td>ЗА: </td><td>Microsoft Surface</td></tr><tr><td>МОЩНОСТ </td><td>65 W</td></tr><tr><td>ВОЛТАЖ </td><td>15 V</td></tr><tr><td>АМПЕРАЖ </td><td>4 A</td></tr><tr><td>БУКСА </td><td>Microsoft Surface Pro 3/4/5/6/7</td></tr><tr><td>СЪВМЕСТИМ С ЛАПТОПИ </td><td>surface laptop, surface laptop 2, surface pro(2017), surface pro 3, surface pro 4, surface pro 5, surface pro 6, suface pro7, surface book, surface book 2, surface GO, 5V/1A USB Charging Port for Phone (Compatible 15V 2.58A &amp; 15V 1.6A); Fast Charging and Providing Overcharge Protection System/Shortcircuit/Overload Protection/Over-Heat Protection</td></tr><tr><td>ГАРАНЦИЯ</td><td>12 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3818</products_id>
+<manufacturers_id>83</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>40.83</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>0.215</prod_weight>
+<prod_warra>12</prod_warra>
+<prod_full_cat_path>Аксесоари|Зарядни за лаптоп</prod_full_cat_path>
+<prod_full_cat>Зарядни за лаптоп</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-NA-MS-53 </td></tr><tr><td>ЗА: </td><td>Microsoft Surface</td></tr><tr><td>МОЩНОСТ </td><td>65 W</td></tr><tr><td>ВОЛТАЖ </td><td>15 V</td></tr><tr><td>АМПЕРАЖ </td><td>4 A</td></tr><tr><td>БУКСА </td><td>Microsoft Surface Pro 3/4/5/6/7</td></tr><tr><td>СЪВМЕСТИМ С ЛАПТОПИ </td><td>surface laptop, surface laptop 2, surface pro(2017), surface pro 3, surface pro 4, surface pro 5, surface pro 6, suface pro7, surface book, surface book 2, surface GO, 5V/1A USB Charging Port for Phone (Compatible 15V 2.58A &amp; 15V 1.6A); Fast Charging and Providing Overcharge Protection System/Shortcircuit/Overload Protection/Over-Heat Protection</td></tr><tr><td>ГАРАНЦИЯ</td><td>12 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN/>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="251">Makki</propertyValue>
+</propertyGroup>
+<propertyGroup id="301" sort_order="291" name="ЗА:" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3889">Microsoft Surface</propertyValue>
+</propertyGroup>
+<propertyGroup id="302" sort_order="292" name="МОЩНОСТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1704">65 W</propertyValue>
+</propertyGroup>
+<propertyGroup id="303" sort_order="293" name="ВОЛТАЖ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3896">15 V</propertyValue>
+</propertyGroup>
+<propertyGroup id="304" sort_order="294" name="АМПЕРАЖ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3897">4 A</propertyValue>
+</propertyGroup>
+<propertyGroup id="305" sort_order="295" name="БУКСА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3893">Microsoft Surface Pro 3/4/5/6/7</propertyValue>
+</propertyGroup>
+<propertyGroup id="306" sort_order="296" name="СЪВМЕСТИМ С ЛАПТОПИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="0"/>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Зарядни за лаптоп</cat_name>
+<cat_name_top_level>Аксесоари</cat_name_top_level>
+<man_name>Makki</man_name>
+<prod_name>Makki зарядно за лаптоп заместител Laptop Adapter Microsoft Surface - 15V 2.58A 44W + USB 5V/1A - MAKKI-NA-MS-51</prod_name>
+<prod_name_english>Makki Laptop Adapter Microsoft Surface - 15V 2.58A 44W + USB 5V/1A - MAKKI-NA-MS-51</prod_name_english>
+<prod_model>MAKKI-NA-MS-51</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-NA-MS-51 </td></tr><tr><td>ЗА: </td><td>Microsoft Surface</td></tr><tr><td>МОЩНОСТ </td><td>44 W</td></tr><tr><td>ВОЛТАЖ </td><td>15 V</td></tr><tr><td>АМПЕРАЖ </td><td>2.58 A</td></tr><tr><td>БУКСА </td><td>Microsoft Surface Pro 3/4/5/6/7</td></tr><tr><td>СЪВМЕСТИМ С ЛАПТОПИ </td><td>Surface Pro 3 Pro 4(Intel Core i5 and Core i7) Surface Pro 5 2017 and Surface Laptop (Does not support Surface Pro 2,Surface Book.) 15V 2.58A 44W, 5V 1A USB port allows you to charge another device such as your phone at the same time.</td></tr><tr><td>ГАРАНЦИЯ</td><td>12 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3817</products_id>
+<manufacturers_id>83</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>32.50</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>0.185</prod_weight>
+<prod_warra>12</prod_warra>
+<prod_full_cat_path>Аксесоари|Зарядни за лаптоп</prod_full_cat_path>
+<prod_full_cat>Зарядни за лаптоп</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-NA-MS-51 </td></tr><tr><td>ЗА: </td><td>Microsoft Surface</td></tr><tr><td>МОЩНОСТ </td><td>44 W</td></tr><tr><td>ВОЛТАЖ </td><td>15 V</td></tr><tr><td>АМПЕРАЖ </td><td>2.58 A</td></tr><tr><td>БУКСА </td><td>Microsoft Surface Pro 3/4/5/6/7</td></tr><tr><td>СЪВМЕСТИМ С ЛАПТОПИ </td><td>Surface Pro 3 Pro 4(Intel Core i5 and Core i7) Surface Pro 5 2017 and Surface Laptop (Does not support Surface Pro 2,Surface Book.) 15V 2.58A 44W, 5V 1A USB port allows you to charge another device such as your phone at the same time.</td></tr><tr><td>ГАРАНЦИЯ</td><td>12 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN/>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="251">Makki</propertyValue>
+</propertyGroup>
+<propertyGroup id="301" sort_order="291" name="ЗА:" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3889">Microsoft Surface</propertyValue>
+</propertyGroup>
+<propertyGroup id="302" sort_order="292" name="МОЩНОСТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3895">44 W</propertyValue>
+</propertyGroup>
+<propertyGroup id="303" sort_order="293" name="ВОЛТАЖ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3896">15 V</propertyValue>
+</propertyGroup>
+<propertyGroup id="304" sort_order="294" name="АМПЕРАЖ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3892">2.58 A</propertyValue>
+</propertyGroup>
+<propertyGroup id="305" sort_order="295" name="БУКСА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3893">Microsoft Surface Pro 3/4/5/6/7</propertyValue>
+</propertyGroup>
+<propertyGroup id="306" sort_order="296" name="СЪВМЕСТИМ С ЛАПТОПИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3899">Surface Pro 3 Pro 4(Intel Core i5 and Core i7) Surface Pro 5 2017 and Surface Laptop (Does not support Surface Pro 2,Surface Book.) 15V 2.58A 44W, 5V 1A USB port allows you to charge another device such as your phone at the same time.</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Зарядни за лаптоп</cat_name>
+<cat_name_top_level>Аксесоари</cat_name_top_level>
+<man_name>Makki</man_name>
+<prod_name>Makki зарядно за лаптоп заместител Laptop Adapter Microsoft Surface - 12V 2.58A 36W + USB 5V/1A - MAKKI-NA-MS-50</prod_name>
+<prod_name_english>Makki Laptop Adapter Microsoft Surface - 12V 2.58A 36W + USB 5V/1A - MAKKI-NA-MS-50</prod_name_english>
+<prod_model>MAKKI-NA-MS-50</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-NA-MS-50 </td></tr><tr><td>ЗА: </td><td>Microsoft Surface</td></tr><tr><td>МОЩНОСТ </td><td>36 W</td></tr><tr><td>ВОЛТАЖ </td><td>12 V</td></tr><tr><td>АМПЕРАЖ </td><td>2.58 A</td></tr><tr><td>БУКСА </td><td>Microsoft Surface Pro 3/4/5/6/7</td></tr><tr><td>СЪВМЕСТИМ С ЛАПТОПИ </td><td>For Microsoft Surface Pro 3 Surface Pro 4 i5 i7 Surface Pro 5 Surface Power Charger.</td></tr><tr><td>ГАРАНЦИЯ</td><td>12 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3816</products_id>
+<manufacturers_id>83</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>28.33</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>0.190</prod_weight>
+<prod_warra>12</prod_warra>
+<prod_full_cat_path>Аксесоари|Зарядни за лаптоп</prod_full_cat_path>
+<prod_full_cat>Зарядни за лаптоп</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-NA-MS-50 </td></tr><tr><td>ЗА: </td><td>Microsoft Surface</td></tr><tr><td>МОЩНОСТ </td><td>36 W</td></tr><tr><td>ВОЛТАЖ </td><td>12 V</td></tr><tr><td>АМПЕРАЖ </td><td>2.58 A</td></tr><tr><td>БУКСА </td><td>Microsoft Surface Pro 3/4/5/6/7</td></tr><tr><td>СЪВМЕСТИМ С ЛАПТОПИ </td><td>For Microsoft Surface Pro 3 Surface Pro 4 i5 i7 Surface Pro 5 Surface Power Charger.</td></tr><tr><td>ГАРАНЦИЯ</td><td>12 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN/>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="251">Makki</propertyValue>
+</propertyGroup>
+<propertyGroup id="301" sort_order="291" name="ЗА:" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3889">Microsoft Surface</propertyValue>
+</propertyGroup>
+<propertyGroup id="302" sort_order="292" name="МОЩНОСТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3890">36 W</propertyValue>
+</propertyGroup>
+<propertyGroup id="303" sort_order="293" name="ВОЛТАЖ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3891">12 V</propertyValue>
+</propertyGroup>
+<propertyGroup id="304" sort_order="294" name="АМПЕРАЖ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3892">2.58 A</propertyValue>
+</propertyGroup>
+<propertyGroup id="305" sort_order="295" name="БУКСА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3893">Microsoft Surface Pro 3/4/5/6/7</propertyValue>
+</propertyGroup>
+<propertyGroup id="306" sort_order="296" name="СЪВМЕСТИМ С ЛАПТОПИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3898">For Microsoft Surface Pro 3 Surface Pro 4 i5 i7 Surface Pro 5 Surface Power Charger.</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Аудио кабели|Адаптери / Преходници</cat_name>
+<cat_name_top_level>Кабели</cat_name_top_level>
+<man_name>Makki</man_name>
+<prod_name>Makki преходник Adapter 3.5mm 4pin F / 2 x 3.5mm M - MAKKI-CBL-SP40</prod_name>
+<prod_name_english>Makki Adapter 3.5mm 4pin F / 2 x 3.5mm M - MAKKI-CBL-SP40</prod_name_english>
+<prod_model>MAKKI-CBL-SP40</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-CBL-SP40 </td></tr><tr><td>ТИП </td><td>Сплитер</td></tr><tr><td>КОНЕКТОР 1 </td><td>3.5 mm Stereo Jack x 2<br>Женски</td></tr><tr><td>КОНЕКТОР 2 </td><td>3.5 mm 4 pin Stereo Jack<br>Мъжки</td></tr><tr><td>ДЪЛЖИНА </td><td>0.20 m</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Събира 2 жака на слушалки и микрофон в 4 пинов жак</td></tr><tr><td>ГАРАНЦИЯ</td><td>12 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3815</products_id>
+<manufacturers_id>83</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>2.00</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>0.010</prod_weight>
+<prod_warra>12</prod_warra>
+<prod_full_cat_path>Кабели|Аудио кабели</prod_full_cat_path>
+<prod_full_cat>Аудио кабели|Адаптери / Преходници</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Makki </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MAKKI-CBL-SP40 </td></tr><tr><td>ТИП </td><td>Сплитер</td></tr><tr><td>КОНЕКТОР 1 </td><td>3.5 mm Stereo Jack x 2<br>Женски</td></tr><tr><td>КОНЕКТОР 2 </td><td>3.5 mm 4 pin Stereo Jack<br>Мъжки</td></tr><tr><td>ДЪЛЖИНА </td><td>0.20 m</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Събира 2 жака на слушалки и микрофон в 4 пинов жак</td></tr><tr><td>ГАРАНЦИЯ</td><td>12 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN/>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="251">Makki</propertyValue>
+</propertyGroup>
+<propertyGroup id="176" sort_order="189" name="ТИП" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="110">Сплитер</propertyValue>
+</propertyGroup>
+<propertyGroup id="167" sort_order="190" name="КОНЕКТОР 1" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3886">3.5 mm Stereo Jack x 2</propertyValue>
+<propertyValue id="739">Женски</propertyValue>
+</propertyGroup>
+<propertyGroup id="168" sort_order="191" name="КОНЕКТОР 2" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3887">3.5 mm 4 pin Stereo Jack</propertyValue>
+<propertyValue id="220">Мъжки</propertyValue>
+</propertyGroup>
+<propertyGroup id="169" sort_order="192" name="ДЪЛЖИНА" filter_use="1" slider="1" slider_measure="m">
+<propertyValue id="678">0.20 m</propertyValue>
+</propertyGroup>
+<propertyGroup id="170" sort_order="193" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="217">Черен</propertyValue>
+</propertyGroup>
+<propertyGroup id="171" sort_order="198" name="ДОПЪЛНИТЕЛНИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3888">Събира 2 жака на слушалки и микрофон в 4 пинов жак</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Storage Devices</cat_name>
+<cat_name_top_level>Аксесоари</cat_name_top_level>
+<man_name>Orico</man_name>
+<prod_name>Orico кутия за диск Storage - Case - 2.5 inch USB3.0 - 2521U3-BK-EP</prod_name>
+<prod_name_english>Orico Storage - Case - 2.5 inch USB3.0 - 2521U3-BK-EP</prod_name_english>
+<prod_model>2521U3-BK-EP</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Orico </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>2521U3-BK-EP </td></tr><tr><td>БАРКОД EAN-13</td><td>6954301171416</td></tr><tr><td>ТИП </td><td>Външна кутия 2.5" за харддиск/SSD</td></tr><tr><td>ИНТЕРФЕЙС </td><td>USB 3.0</td></tr><tr><td>ПОРТОВЕ </td><td>SATA3</td></tr><tr><td>Х-КА 1 </td><td>Compatible HDD Type - 2.5 inch HDD / SSD (7mm &amp; 9.5mm)</td></tr><tr><td>Х-КА 2 </td><td>HDD Interface - SATA I,II,III</td></tr><tr><td>Х-КА 3 </td><td>Data Cable - 0.3m - USB3.0 A/M to Micro B/M</td></tr><tr><td>Х-КА 4 </td><td>No driver required - Windows/Mac/Linux</td></tr><tr><td>Х-КА 5 </td><td>4TB supported</td></tr><tr><td>РАЗМЕРИ </td><td>128 x 80 x 15 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3814</products_id>
+<manufacturers_id>90</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>12.17</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>0.085</prod_weight>
+<prod_warra>24</prod_warra>
+<prod_full_cat_path>Аксесоари|Storage Devices</prod_full_cat_path>
+<prod_full_cat>Storage Devices</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Orico </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>2521U3-BK-EP </td></tr><tr><td>БАРКОД EAN-13</td><td>6954301171416</td></tr><tr><td>ТИП </td><td>Външна кутия 2.5" за харддиск/SSD</td></tr><tr><td>ИНТЕРФЕЙС </td><td>USB 3.0</td></tr><tr><td>ПОРТОВЕ </td><td>SATA3</td></tr><tr><td>Х-КА 1 </td><td>Compatible HDD Type - 2.5 inch HDD / SSD (7mm &amp; 9.5mm)</td></tr><tr><td>Х-КА 2 </td><td>HDD Interface - SATA I,II,III</td></tr><tr><td>Х-КА 3 </td><td>Data Cable - 0.3m - USB3.0 A/M to Micro B/M</td></tr><tr><td>Х-КА 4 </td><td>No driver required - Windows/Mac/Linux</td></tr><tr><td>Х-КА 5 </td><td>4TB supported</td></tr><tr><td>РАЗМЕРИ </td><td>128 x 80 x 15 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN>6954301171416</EAN>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1">Orico</propertyValue>
+</propertyGroup>
+<propertyGroup id="237" sort_order="9" name="ТИП" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1763">Външна кутия 2.5&quot; за харддиск/SSD</propertyValue>
+</propertyGroup>
+<propertyGroup id="247" sort_order="10" name="ИНТЕРФЕЙС" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1764">USB 3.0</propertyValue>
+</propertyGroup>
+<propertyGroup id="248" sort_order="11" name="ПОРТОВЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1772">SATA3</propertyValue>
+</propertyGroup>
+<propertyGroup id="178" sort_order="12" name="Х-КА 1" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="2302">Compatible HDD Type - 2.5 inch HDD / SSD (7mm &amp; 9.5mm)</propertyValue>
+</propertyGroup>
+<propertyGroup id="179" sort_order="13" name="Х-КА 2" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="2101">HDD Interface - SATA I,II,III</propertyValue>
+</propertyGroup>
+<propertyGroup id="180" sort_order="14" name="Х-КА 3" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3883">Data Cable - 0.3m - USB3.0 A/M to Micro B/M</propertyValue>
+</propertyGroup>
+<propertyGroup id="181" sort_order="15" name="Х-КА 4" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="2103">No driver required - Windows/Mac/Linux</propertyValue>
+</propertyGroup>
+<propertyGroup id="182" sort_order="16" name="Х-КА 5" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3884">4TB supported</propertyValue>
+</propertyGroup>
+<propertyGroup id="238" sort_order="19" name="РАЗМЕРИ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3885">128 x 80 x 15 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="201" sort_order="20" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="316">Черен</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Storage Devices</cat_name>
+<cat_name_top_level>Аксесоари</cat_name_top_level>
+<man_name>Orico</man_name>
+<prod_name>Orico кутия за диск Storage - Case - 2.5 inch USB3.0 - 2520U3-BK-EP</prod_name>
+<prod_name_english>Orico Storage - Case - 2.5 inch USB3.0 - 2520U3-BK-EP</prod_name_english>
+<prod_model>2520U3-BK-EP</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Orico </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>2520U3-BK-EP </td></tr><tr><td>БАРКОД EAN-13</td><td>6954301171393</td></tr><tr><td>ТИП </td><td>Външна кутия 2.5" за харддиск/SSD</td></tr><tr><td>ИНТЕРФЕЙС </td><td>USB 3.0</td></tr><tr><td>ПОРТОВЕ </td><td>SATA3</td></tr><tr><td>Х-КА 1 </td><td>Compatible HDD Type - 2.5 inch HDD / SSD (7mm &amp; 9.5mm)</td></tr><tr><td>Х-КА 2 </td><td>HDD Interface - SATA I,II,III</td></tr><tr><td>Х-КА 3 </td><td>Data Cable - 0.3m - USB3.0 A/M to Micro B/M</td></tr><tr><td>Х-КА 4 </td><td>No driver required - Windows/Mac/Linux</td></tr><tr><td>Х-КА 5 </td><td>4TB supported</td></tr><tr><td>РАЗМЕРИ </td><td>128 x 80 x 15 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3813</products_id>
+<manufacturers_id>90</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>12.17</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>0.085</prod_weight>
+<prod_warra>24</prod_warra>
+<prod_full_cat_path>Аксесоари|Storage Devices</prod_full_cat_path>
+<prod_full_cat>Storage Devices</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Orico </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>2520U3-BK-EP </td></tr><tr><td>БАРКОД EAN-13</td><td>6954301171393</td></tr><tr><td>ТИП </td><td>Външна кутия 2.5" за харддиск/SSD</td></tr><tr><td>ИНТЕРФЕЙС </td><td>USB 3.0</td></tr><tr><td>ПОРТОВЕ </td><td>SATA3</td></tr><tr><td>Х-КА 1 </td><td>Compatible HDD Type - 2.5 inch HDD / SSD (7mm &amp; 9.5mm)</td></tr><tr><td>Х-КА 2 </td><td>HDD Interface - SATA I,II,III</td></tr><tr><td>Х-КА 3 </td><td>Data Cable - 0.3m - USB3.0 A/M to Micro B/M</td></tr><tr><td>Х-КА 4 </td><td>No driver required - Windows/Mac/Linux</td></tr><tr><td>Х-КА 5 </td><td>4TB supported</td></tr><tr><td>РАЗМЕРИ </td><td>128 x 80 x 15 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN>6954301171393</EAN>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1">Orico</propertyValue>
+</propertyGroup>
+<propertyGroup id="237" sort_order="9" name="ТИП" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1763">Външна кутия 2.5&quot; за харддиск/SSD</propertyValue>
+</propertyGroup>
+<propertyGroup id="247" sort_order="10" name="ИНТЕРФЕЙС" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1764">USB 3.0</propertyValue>
+</propertyGroup>
+<propertyGroup id="248" sort_order="11" name="ПОРТОВЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1772">SATA3</propertyValue>
+</propertyGroup>
+<propertyGroup id="178" sort_order="12" name="Х-КА 1" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="2302">Compatible HDD Type - 2.5 inch HDD / SSD (7mm &amp; 9.5mm)</propertyValue>
+</propertyGroup>
+<propertyGroup id="179" sort_order="13" name="Х-КА 2" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="2101">HDD Interface - SATA I,II,III</propertyValue>
+</propertyGroup>
+<propertyGroup id="180" sort_order="14" name="Х-КА 3" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3883">Data Cable - 0.3m - USB3.0 A/M to Micro B/M</propertyValue>
+</propertyGroup>
+<propertyGroup id="181" sort_order="15" name="Х-КА 4" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="2103">No driver required - Windows/Mac/Linux</propertyValue>
+</propertyGroup>
+<propertyGroup id="182" sort_order="16" name="Х-КА 5" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3884">4TB supported</propertyValue>
+</propertyGroup>
+<propertyGroup id="238" sort_order="19" name="РАЗМЕРИ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3885">128 x 80 x 15 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="201" sort_order="20" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="316">Черен</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Клавиатури|Геймърски клавиатури</cat_name>
+<cat_name_top_level>Клавиатури</cat_name_top_level>
+<man_name>Marvo PRO</man_name>
+<prod_name>Marvo PRO геймърска клавиатура Gaming Keyboard 112 keys - KG880</prod_name>
+<prod_name_english>Marvo PRO Gaming Keyboard 112 keys - KG880</prod_name_english>
+<prod_model>MARVO-PRO-KG880</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Marvo PRO </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MARVO-PRO-KG880 </td></tr><tr><td>БАРКОД EAN-13</td><td>6932391977309</td></tr><tr><td>КИРИЛИЗАЦИЯ ПО БДС </td><td>Не</td></tr><tr><td>СВЪРЗВАНЕ </td><td>USB</td></tr><tr><td>БРОЙ КЛАВИШИ </td><td>112</td></tr><tr><td>ТИП </td><td>Anti-Ghosting<br>Геймърска<br>Мултимедийна</td></tr><tr><td>ПОДСВЕТКА </td><td>Да<br>Rainbow</td></tr><tr><td>ДЪЛЖИНА НА КАБЕЛА </td><td>150 cm</td></tr><tr><td>РАЗМЕРИ </td><td>446 x 177 x 24 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Anti-ghosting support: 19 keys rollover<br>Backlit characters, perfect for playing in low light<br>Wide edge palm rest</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3812</products_id>
+<manufacturers_id>97</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>45.00</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>1.245</prod_weight>
+<prod_warra>24</prod_warra>
+<prod_full_cat_path>Клавиатури</prod_full_cat_path>
+<prod_full_cat>Клавиатури|Геймърски клавиатури</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Marvo PRO </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MARVO-PRO-KG880 </td></tr><tr><td>БАРКОД EAN-13</td><td>6932391977309</td></tr><tr><td>КИРИЛИЗАЦИЯ ПО БДС </td><td>Не</td></tr><tr><td>СВЪРЗВАНЕ </td><td>USB</td></tr><tr><td>БРОЙ КЛАВИШИ </td><td>112</td></tr><tr><td>ТИП </td><td>Anti-Ghosting<br>Геймърска<br>Мултимедийна</td></tr><tr><td>ПОДСВЕТКА </td><td>Да<br>Rainbow</td></tr><tr><td>ДЪЛЖИНА НА КАБЕЛА </td><td>150 cm</td></tr><tr><td>РАЗМЕРИ </td><td>446 x 177 x 24 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Anti-ghosting support: 19 keys rollover<br>Backlit characters, perfect for playing in low light<br>Wide edge palm rest</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN>6932391977309</EAN>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="2968">Marvo PRO</propertyValue>
+</propertyGroup>
+<propertyGroup id="95" sort_order="112" name="КИРИЛИЗАЦИЯ ПО БДС" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3871">Не</propertyValue>
+</propertyGroup>
+<propertyGroup id="93" sort_order="113" name="СВЪРЗВАНЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="321">USB</propertyValue>
+</propertyGroup>
+<propertyGroup id="92" sort_order="114" name="БРОЙ КЛАВИШИ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1534">112</propertyValue>
+</propertyGroup>
+<propertyGroup id="94" sort_order="115" name="ТИП" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1016">Anti-Ghosting</propertyValue>
+<propertyValue id="1015">Геймърска</propertyValue>
+<propertyValue id="1017">Мултимедийна</propertyValue>
+</propertyGroup>
+<propertyGroup id="100" sort_order="116" name="ПОДСВЕТКА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1535">Rainbow</propertyValue>
+<propertyValue id="1392">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="96" sort_order="117" name="ДЪЛЖИНА НА КАБЕЛА" filter_use="1" slider="1" slider_measure="m">
+<propertyValue id="1019">150 cm</propertyValue>
+</propertyGroup>
+<propertyGroup id="98" sort_order="118" name="РАЗМЕРИ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3872">446 x 177 x 24 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="99" sort_order="119" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="324">Черен</propertyValue>
+</propertyGroup>
+<propertyGroup id="97" sort_order="120" name="ДОПЪЛНИТЕЛНИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3873">Anti-ghosting support: 19 keys rollover</propertyValue>
+<propertyValue id="3874">Backlit characters, perfect for playing in low light</propertyValue>
+<propertyValue id="3501">Wide edge palm rest</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Слушалки|Геймърски слушалки</cat_name>
+<cat_name_top_level>Аудио</cat_name_top_level>
+<man_name>Marvo PRO</man_name>
+<prod_name>Marvo PRO геймърски слушалки Gaming Headphones HG8960 PRO - PC, Consoles</prod_name>
+<prod_name_english>Marvo PRO Gaming Headphones HG8960 PRO - PC, Consoles</prod_name_english>
+<prod_model>MARVO-PRO-HG8960-PRO</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Marvo PRO </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MARVO-PRO-HG8960-PRO </td></tr><tr><td>БАРКОД EAN-13</td><td>6932391922576</td></tr><tr><td>ТИП </td><td>Слушалки с микрофон</td></tr><tr><td>ПРИЛОЖЕНИЕ </td><td>Конзоли<br>Компютър<br>Лаптоп<br>Геймъри</td></tr><tr><td>СВЪРЗВАНЕ </td><td>Кабел</td></tr><tr><td>ИНТЕРФЕЙС </td><td>4 pin 3.5 mm jack<br>3.5 mm jack x 2</td></tr><tr><td>ВИСОКОГОВОРИТЕЛ - ДИАМЕТЪР </td><td>50 mm</td></tr><tr><td>ЧЕСТОТЕН ДИАПАЗОН </td><td>20 Hz - 20 KHz</td></tr><tr><td>СЛУШАЛНИ - ЧУВСТВИТЕЛНОСТ </td><td>106 dB</td></tr><tr><td>ИМПЕДАНС </td><td>32 ohm</td></tr><tr><td>МИКРОФОН </td><td>Да</td></tr><tr><td>МИКРОФОН ЧУВСТВИТЕЛНОСТ </td><td>-42 dB</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДЪЛЖИНА НА КАБЕЛА </td><td>2.2 m</td></tr><tr><td>ПОДСВЕТКА </td><td>Да<br>Червена</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Compatibility: PC, consoles (PS4, Xbox One)<br>Rotatable microphone arm<br>In-line remote control</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3811</products_id>
+<manufacturers_id>97</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>45.00</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>0.770</prod_weight>
+<prod_warra>24</prod_warra>
+<prod_full_cat_path>Аудио|Слушалки</prod_full_cat_path>
+<prod_full_cat>Слушалки|Геймърски слушалки</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Marvo PRO </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MARVO-PRO-HG8960-PRO </td></tr><tr><td>БАРКОД EAN-13</td><td>6932391922576</td></tr><tr><td>ТИП </td><td>Слушалки с микрофон</td></tr><tr><td>ПРИЛОЖЕНИЕ </td><td>Конзоли<br>Компютър<br>Лаптоп<br>Геймъри</td></tr><tr><td>СВЪРЗВАНЕ </td><td>Кабел</td></tr><tr><td>ИНТЕРФЕЙС </td><td>4 pin 3.5 mm jack<br>3.5 mm jack x 2</td></tr><tr><td>ВИСОКОГОВОРИТЕЛ - ДИАМЕТЪР </td><td>50 mm</td></tr><tr><td>ЧЕСТОТЕН ДИАПАЗОН </td><td>20 Hz - 20 KHz</td></tr><tr><td>СЛУШАЛНИ - ЧУВСТВИТЕЛНОСТ </td><td>106 dB</td></tr><tr><td>ИМПЕДАНС </td><td>32 ohm</td></tr><tr><td>МИКРОФОН </td><td>Да</td></tr><tr><td>МИКРОФОН ЧУВСТВИТЕЛНОСТ </td><td>-42 dB</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДЪЛЖИНА НА КАБЕЛА </td><td>2.2 m</td></tr><tr><td>ПОДСВЕТКА </td><td>Да<br>Червена</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Compatibility: PC, consoles (PS4, Xbox One)<br>Rotatable microphone arm<br>In-line remote control</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN>6932391922576</EAN>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="2968">Marvo PRO</propertyValue>
+</propertyGroup>
+<propertyGroup id="151" sort_order="172" name="ТИП" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="724">Слушалки с микрофон</propertyValue>
+</propertyGroup>
+<propertyGroup id="158" sort_order="173" name="ПРИЛОЖЕНИЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="725">Геймъри</propertyValue>
+<propertyValue id="691">Компютър</propertyValue>
+<propertyValue id="1814">Конзоли</propertyValue>
+<propertyValue id="1397">Лаптоп</propertyValue>
+</propertyGroup>
+<propertyGroup id="152" sort_order="174" name="СВЪРЗВАНЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="692">Кабел</propertyValue>
+</propertyGroup>
+<propertyGroup id="160" sort_order="175" name="ИНТЕРФЕЙС" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="726">3.5 mm jack x 2</propertyValue>
+<propertyValue id="1142">4 pin 3.5 mm jack</propertyValue>
+</propertyGroup>
+<propertyGroup id="162" sort_order="176" name="ВИСОКОГОВОРИТЕЛ - ДИАМЕТЪР" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="727">50 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="156" sort_order="177" name="ЧЕСТОТЕН ДИАПАЗОН" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="728">20 Hz - 20 KHz</propertyValue>
+</propertyGroup>
+<propertyGroup id="164" sort_order="178" name="СЛУШАЛНИ - ЧУВСТВИТЕЛНОСТ" filter_use="1" slider="1" slider_measure="dB">
+<propertyValue id="3549">106 dB</propertyValue>
+</propertyGroup>
+<propertyGroup id="165" sort_order="179" name="ИМПЕДАНС" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="730">32 ohm</propertyValue>
+</propertyGroup>
+<propertyGroup id="153" sort_order="180" name="МИКРОФОН" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="694">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="159" sort_order="181" name="МИКРОФОН ЧУВСТВИТЕЛНОСТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1817">-42 dB</propertyValue>
+</propertyGroup>
+<propertyGroup id="154" sort_order="182" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="696">Черен</propertyValue>
+</propertyGroup>
+<propertyGroup id="157" sort_order="184" name="ДЪЛЖИНА НА КАБЕЛА" filter_use="1" slider="1" slider_measure="m">
+<propertyValue id="1437">2.2 m</propertyValue>
+</propertyGroup>
+<propertyGroup id="244" sort_order="186" name="ПОДСВЕТКА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="2781">Да</propertyValue>
+<propertyValue id="2782">Червена</propertyValue>
+</propertyGroup>
+<propertyGroup id="161" sort_order="187" name="ДОПЪЛНИТЕЛНИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="2783">Compatibility: PC, consoles (PS4, Xbox One)</propertyValue>
+<propertyValue id="2868">In-line remote control</propertyValue>
+<propertyValue id="3446">Rotatable microphone arm</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Геймпадове / Волани</cat_name>
+<cat_name_top_level>За геймъри</cat_name_top_level>
+<man_name>Marvo PRO</man_name>
+<prod_name>Marvo PRO геймпад Gamepad GT-80 - PS4, Wireless, Vibration</prod_name>
+<prod_name_english>Marvo PRO Gamepad GT-80 - PS4, Wireless, Vibration</prod_name_english>
+<prod_model>MARVO-PRO-GT-80</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Marvo PRO </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MARVO-PRO-GT-80 </td></tr><tr><td>БАРКОД EAN-13</td><td>6932391977293</td></tr><tr><td>СЪВМЕСТИМОСТ </td><td>PC<br>PlayStation 4</td></tr><tr><td>СВЪРЗВАНЕ </td><td>Безжично</td></tr><tr><td>ВИБРАЦИЯ </td><td>Да</td></tr><tr><td>БУТОНИ БРОЙ </td><td>19</td></tr><tr><td>АНАЛОГОВИ КОНТРОЛИ БРОЙ </td><td>2</td></tr><tr><td>ДОПЪЛНИТЕНИ ФУНКЦИИ </td><td>Speaker: 6/8O-1W<br>Interface: EXT support, 3.5 mm jack<br>Compatibility: PS4 and *PC (wired mode)<br>Sensor: 3D-Sensor, G-Sensor)<br>Battery capacity: 600 mA</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3810</products_id>
+<manufacturers_id>97</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>57.50</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>0.315</prod_weight>
+<prod_warra>24</prod_warra>
+<prod_full_cat_path>За геймъри|Геймпадове / Волани</prod_full_cat_path>
+<prod_full_cat>Геймпадове / Волани</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Marvo PRO </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MARVO-PRO-GT-80 </td></tr><tr><td>БАРКОД EAN-13</td><td>6932391977293</td></tr><tr><td>С ]]>
+<![CDATA[ ЪВМЕСТИМОСТ </td><td>PC<br>PlayStation 4</td></tr><tr><td>СВЪРЗВАНЕ </td><td>Безжично</td></tr><tr><td>ВИБРАЦИЯ </td><td>Да</td></tr><tr><td>БУТОНИ БРОЙ </td><td>19</td></tr><tr><td>АНАЛОГОВИ КОНТРОЛИ БРОЙ </td><td>2</td></tr><tr><td>ДОПЪЛНИТЕНИ ФУНКЦИИ </td><td>Speaker: 6/8O-1W<br>Interface: EXT support, 3.5 mm jack<br>Compatibility: PS4 and *PC (wired mode)<br>Sensor: 3D-Sensor, G-Sensor)<br>Battery capacity: 600 mA</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN>6932391977293</EAN>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="2968">Marvo PRO</propertyValue>
+</propertyGroup>
+<propertyGroup id="231" sort_order="243" name="СЪВМЕСТИМОСТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1256">PC</propertyValue>
+<propertyValue id="1254">PlayStation 4</propertyValue>
+</propertyGroup>
+<propertyGroup id="232" sort_order="244" name="СВЪРЗВАНЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1241">Безжично</propertyValue>
+</propertyGroup>
+<propertyGroup id="236" sort_order="245" name="ВИБРАЦИЯ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1243">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="233" sort_order="246" name="БУТОНИ БРОЙ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3877">19</propertyValue>
+</propertyGroup>
+<propertyGroup id="235" sort_order="247" name="АНАЛОГОВИ КОНТРОЛИ БРОЙ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1245">2</propertyValue>
+</propertyGroup>
+<propertyGroup id="234" sort_order="248" name="ДОПЪЛНИТЕНИ ФУНКЦИИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3882">Battery capacity: 600 mA</propertyValue>
+<propertyValue id="3880">Compatibility: PS4 and *PC (wired mode)</propertyValue>
+<propertyValue id="3879">Interface: EXT support, 3.5 mm jack</propertyValue>
+<propertyValue id="3881">Sensor: 3D-Sensor, G-Sensor)</propertyValue>
+<propertyValue id="3878">Speaker: 6/8O-1W</propertyValue>
+</propertyGroup>
+<propertyGroup id="229" sort_order="249" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1253">Черен</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Мишки|Геймърски мишки</cat_name>
+<cat_name_top_level>Мишки</cat_name_top_level>
+<man_name>Marvo PRO</man_name>
+<prod_name>Marvo PRO геймърска мишка Gaming Mouse G945 - RGB, 10000dpi, Programmable, 1000Hz</prod_name>
+<prod_name_english>Marvo PRO Gaming Mouse G945 - RGB, 10000dpi, Programmable, 1000Hz</prod_name_english>
+<prod_model>MARVO-PRO-G945</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Marvo PRO </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MARVO-PRO-G945 </td></tr><tr><td>БАРКОД EAN-13</td><td>6932391922705</td></tr><tr><td>СВЪРЗВАНЕ </td><td>USB</td></tr><tr><td>ЧУВСТВИТЕЛНОСТ </td><td>10000 dpi</td></tr><tr><td>ТИП </td><td>Геймърска<br>Оптична</td></tr><tr><td>СЕНЗОР </td><td>PAW 3325DB + BY8948</td></tr><tr><td>СКОРОСТ НА ПРЕДАВАНЕ </td><td>1000 Hz</td></tr><tr><td>БРОЙ БУТОНИ </td><td>9</td></tr><tr><td>ПРОГРАМИРУЕМИ БУТОНИ </td><td>Да</td></tr><tr><td>ДЪЛЖИНА НА КАБЕЛА </td><td>180 cm</td></tr><tr><td>РАЗМЕРИ </td><td>127 x 76 x 40 mm</td></tr><tr><td>ЦВЯТ </td><td>Черна</td></tr><tr><td>ПОДСВЕТКА </td><td>RGB</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Advanced customization software<br>9 programmable buttons</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3809</products_id>
+<manufacturers_id>97</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>45.00</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>0.215</prod_weight>
+<prod_warra>24</prod_warra>
+<prod_full_cat_path>Мишки</prod_full_cat_path>
+<prod_full_cat>Мишки|Геймърски мишки</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Marvo PRO </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MARVO-PRO-G945 </td></tr><tr><td>БАРКОД EAN-13</td><td>6932391922705</td></tr><tr><td>СВЪРЗВАНЕ </td><td>USB</td></tr><tr><td>ЧУВСТВИТЕЛНОСТ </td><td>10000 dpi</td></tr><tr><td>ТИП </td><td>Геймърска<br>Оптична</td></tr><tr><td>СЕНЗОР </td><td>PAW 3325DB + BY8948</td></tr><tr><td>СКОРОСТ НА ПРЕДАВАНЕ </td><td>1000 Hz</td></tr><tr><td>БРОЙ БУТОНИ </td><td>9</td></tr><tr><td>ПРОГРАМИРУЕМИ БУТОНИ </td><td>Да</td></tr><tr><td>ДЪЛЖИНА НА КАБЕЛА </td><td>180 cm</td></tr><tr><td>РАЗМЕРИ </td><td>127 x 76 x 40 mm</td></tr><tr><td>ЦВЯТ </td><td>Черна</td></tr><tr><td>ПОДСВЕТКА </td><td>RGB</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Advanced customization software<br>9 programmable buttons</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN>6932391922705</EAN>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="2968">Marvo PRO</propertyValue>
+</propertyGroup>
+<propertyGroup id="102" sort_order="122" name="СВЪРЗВАНЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1021">USB</propertyValue>
+</propertyGroup>
+<propertyGroup id="106" sort_order="123" name="ЧУВСТВИТЕЛНОСТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="2969">10000 dpi</propertyValue>
+</propertyGroup>
+<propertyGroup id="103" sort_order="124" name="ТИП" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1396">Геймърска</propertyValue>
+<propertyValue id="1023">Оптична</propertyValue>
+</propertyGroup>
+<propertyGroup id="104" sort_order="125" name="СЕНЗОР" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3868">PAW 3325DB + BY8948</propertyValue>
+</propertyGroup>
+<propertyGroup id="112" sort_order="126" name="СКОРОСТ НА ПРЕДАВАНЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1951">1000 Hz</propertyValue>
+</propertyGroup>
+<propertyGroup id="105" sort_order="127" name="БРОЙ БУТОНИ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1952">9</propertyValue>
+</propertyGroup>
+<propertyGroup id="107" sort_order="128" name="ПРОГРАМИРУЕМИ БУТОНИ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1961">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="109" sort_order="129" name="ДЪЛЖИНА НА КАБЕЛА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1953">180 cm</propertyValue>
+</propertyGroup>
+<propertyGroup id="111" sort_order="130" name="РАЗМЕРИ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3869">127 x 76 x 40 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="110" sort_order="131" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1027">Черна</propertyValue>
+</propertyGroup>
+<propertyGroup id="245" sort_order="133" name="ПОДСВЕТКА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1956">RGB</propertyValue>
+</propertyGroup>
+<propertyGroup id="108" sort_order="134" name="ДОПЪЛНИТЕЛНИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3870">9 programmable buttons</propertyValue>
+<propertyValue id="2717">Advanced customization software</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Подложки за мишки|Геймърски подложки за мишки</cat_name>
+<cat_name_top_level>Аксесоари</cat_name_top_level>
+<man_name>Marvo PRO</man_name>
+<prod_name>Marvo PRO геймърска подложка за мишка Gaming Mousepad G41 - Size-XL</prod_name>
+<prod_name_english>Marvo PRO Gaming Mousepad G41 - Size-XL</prod_name_english>
+<prod_model>MARVO-PRO-G41</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Marvo PRO </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MARVO-PRO-G41 </td></tr><tr><td>БАРКОД EAN-13</td><td>6932391922590</td></tr><tr><td>ПОВЪРХНОСТ </td><td>Текстил</td></tr><tr><td>ПРОФИЛ </td><td>Нисък</td></tr><tr><td>ТИП НА ПОВЪРХНОСТА </td><td>За контрол<br>За скорост</td></tr><tr><td>РАЗМЕРИ </td><td>900 x 400 x 4 mm</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Waterproof design<br>High-quality anti-fray stitched edges<br>High-density &amp; sweat resistant cloth material<br>Anti-slip rubber base<br>Microfiber weave fabric<br>Optical/Laser</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3808</products_id>
+<manufacturers_id>97</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>19.92</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>Y</prod_avail>
+<prod_weight>0.835</prod_weight>
+<prod_warra>24</prod_warra>
+<prod_full_cat_path>Аксесоари|Подложки за мишки</prod_full_cat_path>
+<prod_full_cat>Подложки за мишки|Геймърски подложки за мишки</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>Marvo PRO </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>MARVO-PRO-G41 </td></tr><tr><td>БАРКОД EAN-13</td><td>6932391922590</td></tr><tr><td>ПОВЪРХНОСТ </td><td>Текстил</td></tr><tr><td>ПРОФИЛ </td><td>Нисък</td></tr><tr><td>ТИП НА ПОВЪРХНОСТА </td><td>За контрол<br>За скорост</td></tr><tr><td>РАЗМЕРИ </td><td>900 x 400 x 4 mm</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Waterproof design<br>High-quality anti-fray stitched edges<br>High-density &amp; sweat resistant cloth material<br>Anti-slip rubber base<br>Microfiber weave fabric<br>Optical/Laser</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN>6932391922590</EAN>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="2968">Marvo PRO</propertyValue>
+</propertyGroup>
+<propertyGroup id="223" sort_order="236" name="ПОВЪРХНОСТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1029">Текстил</propertyValue>
+</propertyGroup>
+<propertyGroup id="224" sort_order="237" name="ПРОФИЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1030">Нисък</propertyValue>
+</propertyGroup>
+<propertyGroup id="225" sort_order="238" name="ТИП НА ПОВЪРХНОСТА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1031">За контрол</propertyValue>
+<propertyValue id="1306">За скорост</propertyValue>
+</propertyGroup>
+<propertyGroup id="226" sort_order="239" name="РАЗМЕРИ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="3875">900 x 400 x 4 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="227" sort_order="241" name="ДОПЪЛНИТЕЛНИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="1033">Anti-slip rubber base</propertyValue>
+<propertyValue id="3497">High-density &amp; sweat resistant cloth material</propertyValue>
+<propertyValue id="3496">High-quality anti-fray stitched edges</propertyValue>
+<propertyValue id="3528">Microfiber weave fabric</propertyValue>
+<propertyValue id="3527">Optical/Laser</propertyValue>
+<propertyValue id="3876">Waterproof design</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+<product>
+<cat_name>Modding Cases|Middle Tower</cat_name>
+<cat_name_top_level>Modding</cat_name_top_level>
+<man_name>DeepCool</man_name>
+<prod_name>DeepCool кутия Case EATX MATREXX 55 MESH ADD-RGB 4F</prod_name>
+<prod_name_english>DeepCool Case EATX MATREXX 55 MESH ADD-RGB 4F</prod_name_english>
+<prod_model>DP-ATX-MATREXX55-MESH-AR-4F</prod_model>
+<prod_descr_full>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>DeepCool </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>DP-ATX-MATREXX55-MESH-AR-4F </td></tr><tr><td>БАРКОД EAN-13</td><td>6933412714149</td></tr><tr><td>ФОРМАТ </td><td>EATX<br>ATX<br>mATX<br>Mini-ITX</td></tr><tr><td>ФОРМ ФАКТОР </td><td>Middle Tower</td></tr><tr><td>РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК </td><td>Долу</td></tr><tr><td>RGB </td><td>Да<br>RGB Hub<br>Addressable</td></tr><tr><td>ПРОЗРАЧЕН СТРАНИЧЕН КАПАК </td><td>Да<br>Tempered glass</td></tr><tr><td>ИНТЕРФЕЙС </td><td>1 x USB 3.0<br>2 x USB 2.0<br>HD Audio Headphones<br>HD Audio Mic</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ </td><td>4</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ </td><td>Pre-installed:Front:3 x 120mm A-RGB fan; Rear:1 x 120mm A-RGB fan</td></tr><tr><td>ОПЦИОНАЛНИ ВЕНТИЛАТОРИ </td><td>Optional: Front:140mm x 3 / 120mm x 3; Top:140mm x 2 / 120mm x 2 Rear: 1 x 120mm</td></tr><tr><td>БРОЙ DVD 5.25" ГНЕЗДА </td><td>0</td></tr><tr><td>БРОЙ 3.5" ГНЕЗДА </td><td>2</td></tr><tr><td>БРОЙ 2.5" SSD ГНЕЗДА </td><td>4</td></tr><tr><td>РАЗШИРИТЕЛНИ СЛОТОВЕ </td><td>7</td></tr><tr><td>МАКС. РАЗМЕР ОХЛАДИТЕЛ </td><td>168 mm</td></tr><tr><td>МАКС. РАЗМЕР ВИДЕОКАРТА </td><td>370 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Liquid Cooler Support Front:120/140/240/280/360mm;Top:120/140/240/280mm; Rear:120mm</td></tr><tr><td>РАЗМЕРИ </td><td>440 x 210 x 480 mm</td></tr><tr><td>ТЕГЛО </td><td>6.60 kg</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_full>
+<products_id>code_3807</products_id>
+<manufacturers_id>68</manufacturers_id>
+<Price_EndUser_LV_wo_VAT>106.69</Price_EndUser_LV_wo_VAT>
+<In_Promotion>N</In_Promotion>
+<prod_descr>
+<![CDATA[ ]]>
+</prod_descr>
+<prod_avail>N</prod_avail>
+<prod_weight>7.600</prod_weight>
+<prod_warra>24</prod_warra>
+<prod_full_cat_path>Modding|Modding Cases</prod_full_cat_path>
+<prod_full_cat>Modding Cases|Middle Tower</prod_full_cat>
+<prod_descr_text>
+<![CDATA[ <table class="prod_info"> <tbody><tr><td>ПРОИЗВОДИТЕЛ</td><td>DeepCool </td></tr><tr><td>КОД НА ПРОИЗВОДИТЕЛЯ</td><td>DP-ATX-MATREXX55-MESH-AR-4F </td></tr><tr><td>БАРКОД EAN-13</td><td>6933412714149</td></tr><tr><td>ФОРМАТ </td><td>EATX<br>ATX<br>mATX<br>Mini-ITX</td></tr><tr><td>ФОРМ ФАКТОР </td><td>Middle Tower</td></tr><tr><td>РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК </td><td>Долу</td></tr><tr><td>RGB </td><td>Да<br>RGB Hub<br>Addressable</td></tr><tr><td>ПРОЗРАЧЕН СТРАНИЧЕН КАПАК </td><td>Да<br>Tempered glass</td></tr><tr><td>ИНТЕРФЕЙС </td><td>1 x USB 3.0<br>2 x USB 2.0<br>HD Audio Headphones<br>HD Audio Mic</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ </td><td>4</td></tr><tr><td>ВКЛЮЧЕНИ ВЕНТИЛАТОРИ </td><td>Pre-installed:Front:3 x 120mm A-RGB fan; Rear:1 x 120mm A-RGB fan</td></tr><tr><td>ОПЦИОНАЛНИ ВЕНТИЛАТОРИ </td><td>Optional: Front:140mm x 3 / 120mm x 3; Top:140mm x 2 / 120mm x 2 Rear: 1 x 120mm</td></tr><tr><td>БРОЙ DVD 5.25" ГНЕЗДА </td><td>0</td></tr><tr><td>БРОЙ 3.5" ГНЕЗДА </td><td>2</td></tr><tr><td>БРОЙ 2.5" SSD ГНЕЗДА </td><td>4</td></tr><tr><td>РАЗШИРИТЕЛНИ СЛОТОВЕ </td><td>7</td></tr><tr><td>МАКС. РАЗМЕР ОХЛАДИТЕЛ </td><td>168 mm</td></tr><tr><td>МАКС. РАЗМЕР ВИДЕОКАРТА </td><td>370 mm</td></tr><tr><td>ЦВЯТ </td><td>Черен</td></tr><tr><td>ДОПЪЛНИТЕЛНИ </td><td>Liquid Cooler Support Front:120/140/240/280/360mm;Top:120/140/240/280mm; Rear:120mm</td></tr><tr><td>РАЗМЕРИ </td><td>440 x 210 x 480 mm</td></tr><tr><td>ТЕГЛО </td><td>6.60 kg</td></tr><tr><td>ГАРАНЦИЯ</td><td>24 месеца</td></tr></tbody></table> ]]>
+</prod_descr_text>
+
+<video_reviews> </video_reviews>
+<EAN>6933412714149</EAN>
+<propertyList>
+<propertyGroup id="1" sort_order="0" name="ПРОИЗВОДИТЕЛ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="434">DeepCool</propertyValue>
+</propertyGroup>
+<propertyGroup id="50" sort_order="56" name="ФОРМАТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="367">ATX</propertyValue>
+<propertyValue id="1493">EATX</propertyValue>
+<propertyValue id="368">Mini-ITX</propertyValue>
+<propertyValue id="369">mATX</propertyValue>
+</propertyGroup>
+<propertyGroup id="49" sort_order="57" name="ФОРМ ФАКТОР" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="366">Middle Tower</propertyValue>
+</propertyGroup>
+<propertyGroup id="59" sort_order="59" name="РАЗПОЛОЖЕНИЕ ЗАХРАНВАЩ БЛОК" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="370">Долу</propertyValue>
+</propertyGroup>
+<propertyGroup id="249" sort_order="60" name="RGB" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="750">Addressable</propertyValue>
+<propertyValue id="2853">RGB Hub</propertyValue>
+<propertyValue id="1119">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="65" sort_order="61" name="ПРОЗРАЧЕН СТРАНИЧЕН КАПАК" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1120">Tempered glass</propertyValue>
+<propertyValue id="371">Да</propertyValue>
+</propertyGroup>
+<propertyGroup id="53" sort_order="62" name="ИНТЕРФЕЙС" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="362">1 x USB 3.0</propertyValue>
+<propertyValue id="363">2 x USB 2.0</propertyValue>
+<propertyValue id="364">HD Audio Headphones</propertyValue>
+<propertyValue id="365">HD Audio Mic</propertyValue>
+</propertyGroup>
+<propertyGroup id="310" sort_order="63" name="ВКЛЮЧЕНИ ВЕНТИЛАТОРИ БРОЙ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1127">4</propertyValue>
+</propertyGroup>
+<propertyGroup id="242" sort_order="64" name="ВКЛЮЧЕНИ ВЕНТИЛАТОРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3866">Pre-installed:Front:3 x 120mm A-RGB fan; Rear:1 x 120mm A-RGB fan</propertyValue>
+</propertyGroup>
+<propertyGroup id="52" sort_order="65" name="ОПЦИОНАЛНИ ВЕНТИЛАТОРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3867">Optional: Front:140mm x 3 / 120mm x 3; Top:140mm x 2 / 120mm x 2 Rear: 1 x 120mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="58" sort_order="66" name="БРОЙ DVD 5.25&quot; ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="757">0</propertyValue>
+</propertyGroup>
+<propertyGroup id="54" sort_order="67" name="БРОЙ 3.5&quot; ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1037">2</propertyValue>
+</propertyGroup>
+<propertyGroup id="55" sort_order="68" name="БРОЙ 2.5&quot; SSD ГНЕЗДА" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="1068">4</propertyValue>
+</propertyGroup>
+<propertyGroup id="56" sort_order="69" name="РАЗШИРИТЕЛНИ СЛОТОВЕ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="356">7</propertyValue>
+</propertyGroup>
+<propertyGroup id="63" sort_order="70" name="МАКС. РАЗМЕР ОХЛАДИТЕЛ" filter_use="1" slider="1" slider_measure="mm">
+<propertyValue id="959">168 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="64" sort_order="71" name="МАКС. РАЗМЕР ВИДЕОКАРТА" filter_use="1" slider="1" slider_measure="mm">
+<propertyValue id="1104">370 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="57" sort_order="72" name="ЦВЯТ" filter_use="1" slider="0" slider_measure="">
+<propertyValue id="359">Черен</propertyValue>
+</propertyGroup>
+<propertyGroup id="62" sort_order="73" name="ДОПЪЛНИТЕЛНИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3675">Liquid Cooler Support Front:120/140/240/280/360mm;Top:120/140/240/280mm; Rear:120mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="22" sort_order="74" name="РАЗМЕРИ" filter_use="0" slider="0" slider_measure="">
+<propertyValue id="3676">440 x 210 x 480 mm</propertyValue>
+</propertyGroup>
+<propertyGroup id="61" sort_order="75" name="ТЕГЛО" filter_use="1" slider="1" slider_measure="kg">
+<propertyValue id="3677">6.60 kg</propertyValue>
+</propertyGroup>
+</propertyList>
+</product>
+</products>
